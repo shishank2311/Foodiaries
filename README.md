@@ -34,7 +34,7 @@ Find how the project looks in <b>screenshots folder</b> Or <a href="https://gith
 </ol>
 
 # Authors
-## Shishank Agrawal | Aditya Srivastav | Shivansh Kulshrestha | Ayush Gupta
+## Shishank Agrawal | Aditya Srivastava | Shivansh Kulshrestha | Ayush Gupta
 <ul>
 <li>Github:https://github.com/shishank2311</li>
 <li>LinkedIn:https://www.linkedin.com/in/shishank-agrawal-287858190</li>
