@@ -6,7 +6,7 @@ Login: admin <br>
 Password: admin<br>
 
 # Screenshots
-<img src="https://https://github.com/shishank2311/Foodiaries/tree/main/screenshots/Banner.png">
+<img src="https://github.com/shishank2311/Foodiaries/blob/main/screenshots/Banner.png">
 Find how the project looks in <b>screenshots folder</b> Or <a href="https://github.com/shishank2311/Foodiaries/tree/main/screenshots">click here</a>
 
 # Technologies Used
